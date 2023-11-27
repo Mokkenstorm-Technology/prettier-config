@@ -1,6 +1,6 @@
 {
   "name": "@riotbyte/prettier-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Custom prettier configuration for RiotByte projects and packages",
   "contributors": [
     {
