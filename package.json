@@ -1,0 +1,23 @@
+{
+  "name": "@riotbyte/prettier-config",
+  "version": "0.0.0",
+  "description": "Custom prettier configuration for RiotByte projects and packages",
+  "contributors": [
+    {
+      "name": "Niels Mokkenstorm",
+      "email": "niels@mokkenstorm.dev",
+      "url": "https://github.com/nmokkenstorm"
+    },
+    {
+      "name": "Maarten Nusteling",
+      "email": "maarten@nusteling.solutions",
+      "url": "https://github.com/nusje2000"
+    }
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mokkenstorm-Technology/prettier-config"
+  }
+}
